@@ -10,9 +10,8 @@ Portkey supports the effortless management of your crypto assets. You can send c
 5. After confirmation, you can close this page and visit "Activity" to track your transaction status.
 
 > **Note:** If you send ELF from Portkey to exchanges like Binance or MEXC, Portkey may detect the exchange address and prompt you for confirmation. Supported exchanges for Mainnet ELF token transfers from Portkey wallet include Binance, OKX, Upbit, Bithumb, Gate, MEXC, and Hotcoin.
->
+
 Important note: Only send ELF tokens to the above exchanges, as other tokens are not supported and will result in asset loss.
->
 >   
 
 
@@ -27,7 +26,7 @@ Important note: Only send ELF tokens to the above exchanges, as other tokens are
 5. After confirmation, you can close this page and visit "Activity" to track your transaction status.
 
 > **Note:** Portkey enables seamless cross-chain transfers from the aelf network to various popular blockchains, including Ethereum, Tron, BNB Smart Chain (BSC), Arbitrum One, Solana, Polygon, Optimism, AVAX C-Chain, TON, and Base.
-> 
+
 Supported tokens include USDT, ELF, SGR, ETH, BNB, USDC, DAI, and more. Depending on the token, cross-chain transfers are facilitated by either ETransfer or eBridge, both integrated into Portkey for a smooth user experience.
 
 For more details, check out the introduction to [ETransfer](https://etransfer.exchange/) and [eBridge](https://ebridge.exchange/).
