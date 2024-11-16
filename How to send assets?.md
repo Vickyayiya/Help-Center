@@ -24,12 +24,9 @@ Important note: Only send ELF tokens to the above exchanges, as other tokens are
     - Note: Once you click "Send", the transaction is irreversible. Make sure all details are accurate before you proceed.
 5. After confirmation, you can close this page and visit "Activity" to track your transaction status.
 
-> **Note:** Portkey enables seamless cross-chain transfers from the aelf network to various popular blockchains, including Ethereum, Tron, BNB Smart Chain (BSC), Arbitrum One, Solana, Polygon, Optimism, AVAX C-Chain, TON, and Base.
-
-Supported tokens include USDT, ELF, SGR, ETH, BNB, USDC, DAI, and more. Depending on the token, cross-chain transfers are facilitated by either ETransfer or eBridge, both integrated into Portkey for a smooth user experience.
-
+> **Note:** Portkey enables seamless cross-chain transfers from the aelf network to various popular blockchains, including Ethereum, Tron, BNB Smart Chain (BSC), Arbitrum One, Solana, Polygon, Optimism, AVAX C-Chain, TON, and Base.  
+Supported tokens include USDT, ELF, SGR, ETH, BNB, USDC, DAI, and more. Depending on the token, cross-chain transfers are facilitated by either ETransfer or eBridge, both integrated into Portkey for a smooth user experience.  
 For more details, check out the introduction to [ETransfer](https://etransfer.exchange/) and [eBridge](https://ebridge.exchange/).
->
 > 
 
 
