@@ -1,5 +1,5 @@
 Portkey supports the trading of crypto assets like ELF and USDT within the aelf network.    
-When trading assets, you can choose between swap and limit order. Swap allows you to instantly swap assets at real-time prices, while limit order enables you to swap at a specific price.
+When trading assets, you can choose between swap and limit order. Swap allows you to instantly swap assets at real-time prices, while limit order enables you to swap at a specific price.   
 
 ### To trade assets via swap
 1. Tap the "Swap" button on the Portkey home screen and select the assets you wish to pay and receive.
@@ -17,5 +17,5 @@ When trading assets, you can choose between swap and limit order. Swap allows yo
 5. Click "Preview" and then check transaction details. If all is correct, click "Swap" to finalise.
 6. Once the transfer is complete, check your balance for updates. Your assets will appear in your account shortly.
 
-> **Note** The swap feature is powered by the decentralised exchange AwakenSwap. For more details, check out the introduction to AwakenSwap.
+> **Note** The swap feature is powered by the decentralised exchange AwakenSwap. For more details, check out the introduction to [AwakenSwap](https://www.awaken.finance/).
 > 
