@@ -17,5 +17,5 @@ When trading assets, you can choose between swap and limit order. Swap allows yo
 5. Click "Preview" and then check transaction details. If all is correct, click "Swap" to finalise.
 6. Once the transfer is complete, check your balance for updates. Your assets will appear in your account shortly.
 
-> **Note** The swap feature is powered by the decentralised exchange AwakenSwap. For more details, check out the introduction to [AwakenSwap](https://www.awaken.finance/).
+> **Note:** The swap feature is powered by the decentralised exchange AwakenSwap. For more details, check out the introduction to [AwakenSwap](https://www.awaken.finance/).
 > 
