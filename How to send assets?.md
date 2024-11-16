@@ -13,6 +13,7 @@ Portkey supports the effortless management of your crypto assets. You can send c
 Important note: Only send ELF tokens to the above exchanges, as other tokens are not supported and will result in asset loss.
 >
 
+
 ### To send assets cross-chain to other networks (for instance Ethereum or Solana)
 1. Tap the "Send" button on the Portkey home screen and select the token you wish to send.
 2. Paste the recipient's address in the "To" field. Portkey will auto-detect the address format and prompt for the target network selection.
@@ -27,6 +28,7 @@ Important note: Only send ELF tokens to the above exchanges, as other tokens are
 Supported tokens include USDT, ELF, SGR, ETH, BNB, USDC, DAI, and more. Depending on the token, cross-chain transfers are facilitated by either ETransfer or eBridge, both integrated into Portkey for a smooth user experience.
 For more details, check out the introduction to [ETransfer](https://etransfer.exchange/) and [eBridge](https://ebridge.exchange/).
 >
+
 
 ### To send NFTs (for instance to other Portkey accounts or wallets on aelf)
 1. Tap the "Send" button on the Portkey home screen, switch to the NFTs tab, and then select the NFT you wish to send.
